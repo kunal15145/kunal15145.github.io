@@ -1,1 +1,1 @@
-## Personal Website abd Blog
+## Personal Website and Blog  
