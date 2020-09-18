@@ -4,7 +4,7 @@ title: About me
 subtitle: 'Moo Point !!! :stuck_out_tongue: '
 ---
 
-My name is Kunal Sharma. Completed my undergraduate studies in the field of Electronics and Communication from [IIITD](https://iiitd.ac.in/) in year 2019. Although the degree says ECE, I found my interest in the field of Computer Science. What attracted me to this field was the sheer problem solving, deep dive to find solution and digging my way around stuff to make sense how a particular thing works.
+My name is Kunal Sharma. Completed my undergraduate studies in the field of Electronics and Communication from [IIITD](https://iiitd.ac.in/) in year 2019. Although the degree says ECE, I found my interest in the field of Computer Science. What attracted me to this field was the sheer problem solving required, deep diving in the problems to figure out a solution and digging my way around different technologies to make sense of how a particular thing works.
 
 My areas of Interests are
 - Computer Networking
