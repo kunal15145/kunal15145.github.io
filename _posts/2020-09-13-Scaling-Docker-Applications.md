@@ -7,4 +7,4 @@ comments: true
 ---
 
 
-![Standard kubernetes diagram](https://github.com/kunal15145/kunal15145.github.io/blob/master/assets/img/kubernetes_ship.jpg){: .center-image }
+![Standard kubernetes diagram](https://raw.githubusercontent.com/kunal15145/kunal15145.github.io/master/assets/img/kubernetes_ship.jpg){: .center-image }
