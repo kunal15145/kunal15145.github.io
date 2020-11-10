@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Kunal Sharma
 subtitle: 'Moo Point !!! :stuck_out_tongue: '
 ---
 
