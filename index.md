@@ -18,8 +18,8 @@ Hobbies
 - Playing video games (Focused on Ubisoft's Rainbow Six Seige right now).
 - Reading Books.
 - Watching Friends (Watched it way too many times), Netflix and Anime.
-- Listen to all kinds of song (Hindi, English, K-POP, J-POP).
+- Listen to all kinds of songs (Hindi, English, K-POP, J-POP).
 
 Somethings I would like to do in future
-- Contribute to opensource community or start a opensource project of my own.
+- Contribute to an opensource community or start a opensource project of my own.
 - Travel all around the world and hopefully find some obscure places.
