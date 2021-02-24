@@ -12,7 +12,8 @@ author: Kunal Sharma
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog Posts: "blogs"
+  Tech Corner: "blogs"
+  Natural Sciences Corner: "nasciences"
 
 # --- Logo --- #
 
