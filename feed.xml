@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Kunal Sharma</title>
+    
+    
+    <description>A virtual proof that I'm awesome</description>
+    
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Scaling Dockerized Applications Horizontally on Kubernetes</title>
+        <description>
+          How to scale dockerized applications horizontally as users increase - 
+          
+
+Well here we are looking at one more standard picture when someone starts talking about kubernetes. A nice cargo ship with “containers” aligned in a beautifull, systemic and clean way.
+
+        </description>
+        <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+        <link>/2020-09-13-Scaling-Docker-Applications/</link>
+        <guid isPermaLink="true">/2020-09-13-Scaling-Docker-Applications/</guid>
+      </item>
+    
+  </channel>
+</rss>
